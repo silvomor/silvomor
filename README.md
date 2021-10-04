@@ -13,9 +13,8 @@
 
 ### My main goal is to learn & contribute.
 
----
-## What you will find here
----
+<!-- --- -->
+<!-- ## What you will find here -->
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=silvomor)](https://github.com/anuraghazra/github-readme-stats) -->
 ---
 
