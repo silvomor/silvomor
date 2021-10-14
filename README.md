@@ -7,7 +7,7 @@
   <img src="https://profile-counter.glitch.me/silvomor/count.svg" />
 </p>
 
-## About me
+## About me 😶
 ---
 ### I'm Kshitij. An undergardute student. Self taught programmer. Python is my most sharpened weapon.
 
@@ -61,7 +61,7 @@
 - Physics
 - Video Games
 ---
-## Get in touch :coffee:
+## Get in touch 👇
 
 - [Portfolio](https://silvomor.pythonanywhere.com/)
 - [LinkedIn](https://www.linkedin.com/in/sagarviradiya)
