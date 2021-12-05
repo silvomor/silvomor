@@ -64,6 +64,6 @@
 ## Get in touch 👇
 
 - [Portfolio](https://silvomor.pythonanywhere.com/)
-- [LinkedIn](https://www.linkedin.com/in/sagarviradiya)
+- [LinkedIn](https://www.linkedin.com/in/kshitij-hiwale-76721516b/)
 - And of course GitHub you're already on.
 ---
