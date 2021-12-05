@@ -19,7 +19,7 @@
 ---
 
 
-## 🛠  Technologies that I'm familiar with :
+## 🛠  Things that I'm familiar with :
 
 <a name="learning-now"></a>
 [<img src="https://img.shields.io/badge/python-282C34?logo=python&logoColor=02569B" alt="python logo" title="python" height="25" />][tech_tools_anchor]
