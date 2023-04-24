@@ -9,7 +9,7 @@
 
 ## About me 😶
 ---
-### I'm Kshitij. An undergardute student. Self taught programmer. Python is my most sharpened weapon.
+### I'm Self taught programmer. Python is my most sharpened weapon.
 
 ### My main goal is to learn & contribute.
 
